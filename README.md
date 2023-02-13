@@ -13,11 +13,16 @@
 ## 1.	OBJETIVOS
   
 
-OBJETIVO GENERAL. Podemos determinar que la resonancia de un circuito RLC serie, se da cuando las reactancias inductiva y capacitiva son iguales en magnitud, pero se cancelan entre ellas porque están desfasadas 180 grados. 
+OBJETIVO GENERAL. 
+
+Podemos determinar que la resonancia de un circuito RLC serie, se da cuando las reactancias inductiva y capacitiva son iguales en magnitud, pero se cancelan entre ellas porque están desfasadas 180 grados. 
 
 Los Filtros Pasivos son circuitos que controlan la señal de salida en función de la frecuencia, se utilizan principalmente para separar un grupo de frecuencias de otras.
 
-OBJETIVO ESPECÍFICO. Un circuito RLC en serie, alimentado por una señal alterna (fuente de tensión de corriente alterna), hay un efecto de esta en cada uno de los componentes.
+OBJETIVO ESPECÍFICO. 
+
+
+Un circuito RLC en serie, alimentado por una señal alterna (fuente de tensión de corriente alterna), hay un efecto de esta en cada uno de los componentes.
 
 En los Filtros Pasivos la pendiente se mide en decibelios por octava. Una octava es el doble de algo.
 
@@ -206,6 +211,10 @@ SECCIÓN 18–4 Filtros Rechazabanda
 26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Æ, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent 50 V?
 
 ![](https://github.com/Shirley-Erazo9/Informe9/blob/main/EJ35.png)
+
+## 4.	VIDEO
+
+https://www.youtube.com/watch?v=0S7oA9SpIy8&ab_channel=JosephFrancisco
 
 ## 5.	CONCLUSIONES
 
