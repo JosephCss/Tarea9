@@ -4,11 +4,14 @@
 
     INFORME: CAPÍTULO 17 Y 18.
 
-    NOMBRE: Almachi Joseph.
+       NOMBRE: Almachi Joseph.
 
     NRC: 10067.
 
     DOCENTE: ING. DARWIN OMAR ALULEMA FLORES.
+   
+## 1.	OBJETIVOS
+  
 
 OBJETIVO GENERAL. Podemos determinar que la resonancia de un circuito RLC serie, se da cuando las reactancias inductiva y capacitiva son iguales en magnitud, pero se cancelan entre ellas porque están desfasadas 180 grados. 
 
@@ -18,7 +21,10 @@ OBJETIVO ESPECÍFICO. Un circuito RLC en serie, alimentado por una señal altern
 
 En los Filtros Pasivos la pendiente se mide en decibelios por octava. Una octava es el doble de algo.
 
-MARCO TEORICO.
+
+## 2.	MARCO TEÓRICO (RESUMEN)
+
+
 
 ![](https://github.com/Shirley-Erazo9/Informe9/blob/main/MP1.jpeg)
 
@@ -201,14 +207,14 @@ SECCIÓN 18–4 Filtros Rechazabanda
 
 ![](https://github.com/Shirley-Erazo9/Informe9/blob/main/EJ35.png)
 
-CONCLUSIONES.
+## 5.	CONCLUSIONES
 
 - En conclusión en la Resonancia en un circuito LCR en serie tiene una condición de resonancia la que se realiza en las oscilaciones forzadas de una masa unida a un muelle elástico.
 
-- En conclusión, los Filtros Pasivos son aquellos tipos de filtros formados por combinaciones serie o paralelo de elementos R, L o C.
+- los Filtros Pasivos son aquellos tipos de filtros formados por combinaciones serie o paralelo de elementos R, L o C.
 
-- En los Filtros Pasivos las gráficas logarítmicas, esto da una linea recta, que empieza a decaer en la fecuencia de corte con otra linea recta, y la pendiente de esta recta es lo que marca el orden del filtro.
+- Las frecuencias críticas son las frecuencias ubicadas por encima y por debajo de la condición de resonancia donde la respuesta del circuito es un 70.7% de la respuesta máxima.
 
-BIBLIOGRAFÍA.
+## 6.	BIBLIOGRAFIA 
 
-Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Pearson Education. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf 0 comments on commit 73edc1a.
+Floyd, T. L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS - Octava edición. México: PEARSON EDUCACIÓN.
